@@ -226,6 +226,7 @@
     <Compile Include="RootFinding\Secant.cs" />
     <Compile Include="RootFinding\ZeroCrossingBracketing.cs" />
     <Compile Include="RootFinding\Brent.cs" />
+    <Compile Include="RootFinding\Newton.cs" />
     <Compile Include="FindRoots.cs" />
     <Compile Include="RootFinding\Bisection.cs" />
     <Compile Include="SpecialFunctions\Evaluate.cs" />
